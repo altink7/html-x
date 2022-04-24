@@ -1,0 +1,48 @@
+body {
+    background-color:skyblue;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+header {
+    width: auto;
+    height: 281px;
+    padding: 5px;
+    margin: 25px;
+    text-align: center;
+    border: grey;
+    border-radius: 10px;
+    border-style: hidden;
+}
+
+section {
+    width: 870px;
+    height: 600px;
+    margin: 25px;
+    padding: 5px;
+    border: grey;
+    border-radius: 10px;
+    border-style: ridge;
+    float: left;
+}
+
+aside {
+    width: 870px;
+    height: 600px;
+    margin: 25px;
+    padding: 5px;
+    float:right;
+}
+
+aside img{
+    border-radius: 30px;
+
+}
+
+footer {
+    width: 1820px;
+    margin: 25px;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center;
+    float: inline-end;
+}
